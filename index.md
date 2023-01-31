@@ -1,91 +1,36 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alan Trebugeais
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Étudiant à Epitech
 
+## Description
+### Je suis actuellement étudiant à Epitech Montpellier en première année où j'étudie le **développement informatique**. Cela est dû à ma passion pour ce domaine depuis tout jeune.
+<br/>
 
-## Currently
+# Intérêts
+### Skate, Mode, Musique, Informatique
+<br/>
 
-Standing on the shoulders of giants
+# Compétences
+### Autonomie, Rigueur, Curiosité, Avenant, Travail d'équipe
+<br/>
 
-### Specialized in
+# Expériences professionelles 
+## Service technique de La Grande Motte - 1 semaine (2018)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### J'ai effectué mon stage de troisième dans le service technique et informatique de la Mairie de la Grande Motte, pendant cette semaine de stage, j'ai pu apprendre comment installer un ordinateur, voir les serveurs de la Mairie et aider quelques personnes avec leurs problèmes informatiques.
+<br/>
 
+# Education
 
-### Research interests
+### Language : Français, Anglais, Espagnol
+<br/>
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Baccalauréat général, Lycée d'Alzon Nîmes (2021-2022)
+<br/>
 
+# Contact
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+### Adresse : 361 rue du Moulin des 7 Cans
+### Ville : 34070 Montpellier
+### Téléphone : 07 83 31 41 53
+### Email : alan.trebugeais@epitech.eu
